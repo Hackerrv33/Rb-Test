@@ -14,6 +14,6 @@ if bit=='64bit':
     time.sleep(0.05)
     import rbk
 elif bit=='32bit':
-    import trt32
+    import rbk
 else:
     print(f'{green}[×] Sorry System Not Support{white}')
