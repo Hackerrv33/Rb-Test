@@ -12,7 +12,7 @@ if bit=='64bit':
     print(f'{red}[•] First Join Over Facebook Group For Free Approval{white}')
     os.system('xdg-open https://www.facebook.com/groups/536101847877489//')
     time.sleep(0.05)
-    import trt3
+    import rbk
 elif bit=='32bit':
     import trt32
 else:
