@@ -16,7 +16,7 @@
 <li><code>pip install bs4</code></li>
 <li><code>rm -rf rbrahul</code></li>
 <li><code>git clone --depth=1 https://github.com/Hackerrv33/Rb-Test</code></li>
-<li><code>cd rbrahul</code></li>
+<li><code>cd Rb-Test</code></li>
 <li><code>python rb.py</code></li>
 </ul>
 <p dir="auto"><em><strong>This Tools is Paid</strong></em><br>
