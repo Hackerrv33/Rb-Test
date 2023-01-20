@@ -1,6 +1,6 @@
 import os,time,platform
 os.system('clear')
-print('[•] Enjoy Free Cloning Command By -Rahul Rb.')
+print('[•] Hurry up Enjoy Free Cloning Command By -Rahul Rb.')
 os.system('git pull')
 green = ('\033[1;32m')
 white = ('\033[1;37m')
