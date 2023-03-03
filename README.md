@@ -14,7 +14,7 @@
 <li><code>pip install requests</code></li>
 <li><code>pip install mechanize</code></li>
 <li><code>pip install bs4</code></li>
-<li><code>rm -Rb-Test</code></li>
+<li><code>rm -rf Rb-Test</code></li>
 <li><code>git clone --depth=1 https://github.com/Hackerrv33/Rb-Test</code></li>
 <li><code>cd Rb-Test</code></li>
 <li><code>python rb.py</code></li>
